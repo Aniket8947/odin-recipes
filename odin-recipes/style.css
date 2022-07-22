@@ -1,0 +1,58 @@
+.recipe{
+    height: 65vh;
+    width: 80vh;
+}
+.kimg{
+    height: 65vh;
+}
+.dh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    background-color: black;
+}
+.gh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: yellow;
+}
+.kh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    background-color: black;
+}
+.mh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    background-color: black;
+}
+.rh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: yellow;
+}
+.oh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: green;
+}
+ul{
+    background-color: yellow;
+}
+h2{
+    color: red ;
+}
+body{
+    background-color: pink;
+}
